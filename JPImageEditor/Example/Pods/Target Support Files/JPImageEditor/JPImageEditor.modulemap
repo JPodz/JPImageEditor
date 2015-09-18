@@ -1,6 +1,0 @@
-framework module JPImageEditor {
-  umbrella header "JPImageEditor-umbrella.h"
-
-  export *
-  module * { export * }
-}
